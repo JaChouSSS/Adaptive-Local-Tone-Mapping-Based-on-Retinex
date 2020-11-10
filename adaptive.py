@@ -334,12 +334,13 @@ def fiters():
 
 
 if __name__ == '__main__':
-    img = cv2.imread('./img/noiss.jpg')
+    #img = cv2.imread('./img/noiss.jpg')
     #bi_demo(img)
     #single_compare('./img/noiss.jpg','./z63/1603881149143.jpg','./img/noiss_compare.jpg')
     #fiters()
+    imgs_path = ''
     save_path = ''
-    folder_test('./new_show',save_path)
+    folder_test(imgs_path,save_path)
     #compare(r'F:\\LowlightDataset\\z6','./z62','./Q2_compare/')
 
     # img = cv2.imread('./noiss.jpg')
