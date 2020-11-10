@@ -25,5 +25,4 @@ python adaptive.py
 
 
 
-![](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a.jpg)
-![](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a_result_a.png)
+![](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a.jpg)![](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a_result_a.png)
