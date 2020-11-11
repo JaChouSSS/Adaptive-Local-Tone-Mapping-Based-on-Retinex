@@ -22,7 +22,4 @@ python adaptive.py
 
 
 ### 测试结果
-
-
-
-![](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a.jpg)![](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a_result_a.png)
+![avatar](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a.jpg)![avatar](https://github.com/JaChouSSS/Adaptive-Local-Tone-Mapping-Based-on-Retinex/blob/master/a_result_a.png)
